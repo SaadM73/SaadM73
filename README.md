@@ -13,4 +13,4 @@ I'm a Computer Science student at FAST, passionate about software development an
 
 <!-- LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: [(https://www.linkedin.com/in/saad-mursaleen-b6156725b)]
+[linkedin-url]: https://www.linkedin.com/in/saad-mursaleen-b6156725b
