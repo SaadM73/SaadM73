@@ -6,15 +6,6 @@ id="header" align="left">
 </div>
 
 
-### About Me:
-
-I'm a Computer Science student at FAST, passionate about software development and exploring new technologies in Python, C++, and HTML. When not coding, I'm likely immersed in a good book or planning my next travel adventure.
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/saadmursaleen/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
 
 ## Languages:
 
@@ -30,14 +21,20 @@ I'm a Computer Science student at FAST, passionate about software development an
 
 ### :woman_technologist: About Me :
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :(
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :(
 
-- :telescope: I’m studying CS from GIK Institute 
+- :telescope: I’m majoring in CS from FAST NUCES
 
 - :seedling: Exploring ML nowadays :)
 
 - :zap: In my free time, I freelance on fiverr and play video games :)
 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/saadmursaleen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
 
 
 ---
