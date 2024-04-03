@@ -50,14 +50,14 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### 🏆 My Stats :
 
-<a href="https://github.com/abdullahrizwan649/github-profile-trophy"></a>
-<a href="https://github.com/abdullahrizwan649/github-profile-trophy">
+<a href="https://github.com/SaadM73/github-profile-trophy"></a>
+<a href="https://github.com/SaadM73/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullahrizwan649&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaadM73&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
-<img src="https://komarev.com/ghpvc/?username=abdullahrizwan649&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SaadM73&style=flat-square&color=blue" alt=""/>
 
