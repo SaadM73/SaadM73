@@ -1,6 +1,8 @@
 # Hello there, I'm Saad Mursaleen
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxubm94anppenNxMnR0cW95N3FmcDUyNHRyNGtxbHNzazVwcjNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rsp9jLIy0VZOKlZziw/giphy.gif" width="100" height = "100" />
+<div
+id="header" align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxubm94anppenNxMnR0cW95N3FmcDUyNHRyNGtxbHNzazVwcjNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rsp9jLIy0VZOKlZziw/giphy.gif" width="100" height = "100" 
+/>
 </div>
 
 
@@ -8,7 +10,12 @@
 
 I'm a Computer Science student at FAST, passionate about software development and exploring new technologies in Python, C++, and HTML. When not coding, I'm likely immersed in a good book or planning my next travel adventure.
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<div id="badges">
+  <a href="https://www.linkedin.com/in/saadmursaleen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+
 ## Languages:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,9 +25,6 @@ I'm a Computer Science student at FAST, passionate about software development an
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
 
-<!-- LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/saad-mursaleen-b6156725b
 
 
 
@@ -34,11 +38,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I freelance on fiverr and play video games :)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/abdullahrizzwan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+
 
 ---
 
