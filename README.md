@@ -1,5 +1,7 @@
 # Hello there, I'm Saad Mursaleen
-
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxubm94anppenNxMnR0cW95N3FmcDUyNHRyNGtxbHNzazVwcjNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rsp9jLIy0VZOKlZziw/giphy.gif" width="100" height = "100" />
+</div>
 ## About Me:
 
 I'm a Computer Science student at FAST, passionate about software development and exploring new technologies in Python, C++, and HTML. When not coding, I'm likely immersed in a good book or planning my next travel adventure.
